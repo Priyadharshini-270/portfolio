@@ -856,3 +856,7 @@ align-items:center;
     font-weight: 600;
     opacity: 1 !important;
 }
+.typing {
+  color: #00f7ff;
+  font-weight: bold;
+}
